@@ -2,9 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-	<head>
-		<title>Akshitha chinthakindi</title>
-	</head>
+
 	<body>
 		<h1>Akshitha chinthakindi</h1>
 	</body>
@@ -21,8 +19,6 @@
 - 🌱 I’m currently learning **c, c++, python**
 
 - 📫 How to reach me **chinthakindiakshitha@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
